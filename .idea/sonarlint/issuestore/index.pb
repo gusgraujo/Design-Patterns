@@ -7,8 +7,6 @@ Z
 *CreationalPattern/Factory/db/OracleDB.java,7\c\7c2c1c01ef4353575bcdd6df04c03a065f91d84d
 f
 6CreationalPattern/Factory/factories/OracleFactory.java,3\b\3b9b77fcc0675c39dd0c2b2b7166afa33a83101b
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 s
 CCreationalPattern/Builder/stantard/builder/FastFoodMealBuilder.java,5\1\513a15a813d41840b969ef9d98eeed1794d25f25
 n
