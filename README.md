@@ -35,3 +35,9 @@ This repository goal is to study and improve the knowledge of design patterns an
 - **Prototype** : Prototype is a creational design pattern that lets you copy existing objects without making your code dependent on their classes.
 
 ![](Images/cloneBuilder.jpg)
+
+### Structural :
+
+- **Adapter** : Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
+
+![](Images/hdmi-after.jpg)
