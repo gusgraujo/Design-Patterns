@@ -27,8 +27,6 @@ _
 /StructuralPattern/Adapter/hexagonal/Client.java,1\3\133b77a707af31c2d4d263e8dc0546e16f96d32b
 r
 BStructuralPattern/Adapter/hexagonal/core/usecases/UserService.java,c\1\c12c6150cc45b4369165f18fc161daecd04770b9
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 p
 @StructuralPattern/Bridge/Converter/converters/JsonConverter.java,9\f\9f505141f91bce2b497c030663f679ba6713ce80
 o
