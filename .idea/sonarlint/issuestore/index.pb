@@ -1,6 +1,4 @@
 
-a
-1CreationalPattern/AbstractFactory/Car/Client.java,2\f\2f3d905ad12c174854ff8c59dcc16a75543fc41c
 T
 $CreationalPattern/Factory/db/DB.java,0\7\0790a26cf133fb0f3b95ed26db4d7d770a7974ba
 Z
@@ -23,3 +21,35 @@ m
 =CreationalPattern/Builder/stantard/director/MealDirector.java,6\7\67f76a606109e5e7a9870d3a170764bc859b177f
 W
 'CreationalPattern/Singleton/Client.java,2\e\2eb8ce87f7961197adf194c4ea8ecf85665019ff
+m
+=StructuralPattern/Adapter/hexagonal/application/UserRest.java,3\e\3e9836cd51473dea1d8bc0405545ca6886047ad3
+_
+/StructuralPattern/Adapter/hexagonal/Client.java,1\3\133b77a707af31c2d4d263e8dc0546e16f96d32b
+r
+BStructuralPattern/Adapter/hexagonal/core/usecases/UserService.java,c\1\c12c6150cc45b4369165f18fc161daecd04770b9
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+p
+@StructuralPattern/Bridge/Converter/converters/JsonConverter.java,9\f\9f505141f91bce2b497c030663f679ba6713ce80
+o
+?StructuralPattern/Bridge/Converter/converters/CSVConverter.java,0\f\0f4f0952cdadbaf28067dbbedbe747c9bdad0bf9
+l
+<StructuralPattern/Bridge/Converter/converters/Converter.java,c\c\cc4031d5354ea3a462395d47744f573fa76df9e9
+^
+.StructuralPattern/Bridge/Converter/Client.java,f\4\f446b253c27d8b28f76f3313f03edb516394cb5c
+p
+@StructuralPattern/Bridge/Converter/employees/ProjectManager.java,b\1\b133c29f8c5a059cd3b27a57e7c566f4d5c245a9
+g
+7StructuralPattern/Bridge/Converter/employees/ITGuy.java,e\3\e3f15858a7614f60eae76370989638dfb4cc7590
+j
+:StructuralPattern/Bridge/Converter/employees/Employee.java,7\6\768f8a7fcbfdece091bff447f65853665138c0c2
+a
+1StructuralPattern/Bridge/backend/dao/UserDao.java,1\1\116245d33d69683bf9cb184bcea5d6014f64fdc6
+f
+6StructuralPattern/Bridge/backend/dao/UserMongoDao.java,2\e\2efff56912fcc6872b7a99953f3aef1ad988a2b4
+f
+6StructuralPattern/Bridge/backend/dao/UserMysqlDao.java,f\e\fe824fb7d4ce9bb7b80faf504a1ee191f95f20ec
+g
+7StructuralPattern/Bridge/backend/dao/UserOracleDao.java,2\8\28074a5121ccbc4e8820e75c8a91c1062e7287cd
+i
+9StructuralPattern/Bridge/backend/dao/UserPostgresDao.java,2\2\2292317f23f9c1ca925471de2d554115abcebfa2
