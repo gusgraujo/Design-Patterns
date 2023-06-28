@@ -53,3 +53,7 @@ This repository goal is to study and improve the knowledge of design patterns an
 - **Decorator** : Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
 
 ![](Images/coffeeshop.jpg)
+
+- **Facade** : Facade is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
+
+![](Images/callCenter-after.jpg)
